@@ -4,6 +4,9 @@
 
 A recursive solver for sudoku puzzles written in C.
 
+![screenshot](https://raw.githubusercontent.com/dliberat/sudoku_solver/master/screenshot.png)
+
+
 ## Getting Started (Linux)
 
 1. Clone the repository
